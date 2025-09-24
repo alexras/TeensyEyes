@@ -34,3 +34,5 @@ cmake-*
 
 # PlatformIO
 .pio
+
+.DS_Store
