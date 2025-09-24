@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="19.200001"
+   height="19.200001"
+   viewBox="0 0 19.200001 19.200001"
+   sodipodi:docname="lower.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="19.200001"
+       height="19.200001"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="19.200001"
+       height="19.200001"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADwAQMAAAAEm3vRAAAAAXNSR0IArs4c6QAAAARnQU1BAACx&#10;jwv8YQUAAAAGUExURQAAAP///6XZn90AAAAJcEhZcwAAuIsAALiLAZ6yHVAAAAGtSURBVFjD7ZUx&#10;cgMhDEVhKOjCDcJFPOFKKVNkZvdoPoqP4NKFx8qysIYF6Zep9Eu/lfQlBDYqlUqlUqlUKpVKpVKp&#10;VCrVP2jF+IrxDeNvjH8wvmD8hXHEnUXcWcCdhTvE/oHxE2JHEFtaMQadWWMIWHcbBta9MQuw/rFh&#10;gjgB65/bmZA89UvGsvXf7UxI9rY15Un0ZguWvLlHPhPRW94FS+LcYsEvAaeclsTie9VFKl7OOknF&#10;3Z41ScXDjqNUPFH5SChejnobG1vclpoZc2P35axcxsy6xoIt8dmX+iOx2beoe/2M8x4OnDKeViYd&#10;IXHPvk65q9+C71PuGhGIMbe8sac53LUAR3N4tvtqLoZw1zdTcTfZpZ/kQkP6cy/pwLVa9Xrreqxa&#10;37GtlidWqzl3NuhwYlna1pfFz3Obo9oCRQ63IQYOt/1hO7ueT2BUOyDOen8tGev9bkZknLXeLz7j&#10;rV9sC40z3s63ZvJ2vrIBOWO8DVduoONTlpCzqfj4BzIUn54iWHrofH6ovNz1lH2mfXbuiXXAd9Yi&#10;+84KwFgXLv1veVA5K3LjPpfvqDF/g+YlBjLGwrYAAAAASUVORK5CYII=&#10;"
+       id="image1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Image 1"
+     style="display:inline">
+    <rect
+       style="fill:#000000;fill-opacity:1"
+       id="rect2"
+       width="25.505495"
+       height="24.559002"
+       x="-2.2915094"
+       y="-2.7896636" />
+    <ellipse
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.72795"
+       id="path2"
+       cx="9.6000004"
+       cy="12.902194"
+       rx="9.6110907"
+       ry="6.2269278" />
+    <ellipse
+       style="fill:#000000;stroke-width:2.8537"
+       id="path1"
+       cx="9.6000004"
+       cy="7.0239735"
+       rx="13.375441"
+       ry="9.4151144" />
+  </g>
+</svg>
