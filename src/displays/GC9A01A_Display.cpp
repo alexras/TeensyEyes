@@ -23,7 +23,7 @@ GC9A01A_Display::GC9A01A_Display(const GC9A01A_Config &config, uint32_t spiSpeed
   display->begin(spiSpeed);
   display->setRotation(config.rotation);
   if (config.mirror) {
-    const std::array<uint8_t, 4> mirrorTFT{0x8, 0x20, 0x40, 0xE0}; // Mirror + rotate
+    const std::array<uint8_t, 4> mirrorTFT{0x8, 0x68, 0xc8, 0xa8}; // Mirror + rotate
     display->sendCommand(GC9A01A_MADCTL, &mirrorTFT.at(config.rotation & 3), 1);
   }
 
