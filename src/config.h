@@ -84,8 +84,8 @@ std::array<std::array<EyeDefinition, 2>, 13> eyeDefinitions{{
 #ifdef USE_GC9A01A
 GC9A01A_Config eyeInfo[] = {
     // CS DC MOSI SCK RST ROT MIRROR USE_FB ASYNC
-    {0,  2, 26, 27, 3, 1, false, true, true}, // Left display (L2, L3, R2, R3)
-    {10, 9, 11, 13, 8, 2, true, true, true}, // Right display (L1, R1)
+    {0,  2, 26, 27, 3, 2, false, true, true}, // Left display (L1, R1)
+    {10, 9, 11, 13, 8, 1, true, true, true}, // Right display (L2, L3, R2, R3)
 };
 #elif defined USE_ST7789
 ST7789_Config eyeInfo[] = {
